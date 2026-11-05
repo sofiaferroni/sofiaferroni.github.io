@@ -2,8 +2,8 @@ title: "Il Portfolio di Sofia Ferroni"
 description: "Sito ufficiale di Sofia Ferroni - CV, Poesie e Fotografia"
 
 # Tema e Skin (Colori)
-minimal_mistakes_skin: "default" # Puoi cambiarlo in "dark", "aqua" o "mint" più avanti
-remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Configurazione del sito
 markdown: kramdown
@@ -14,7 +14,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jinclude
+  - jemoji
+  - jekyll-include-cache
 
 # IL TUO PROFILO (Quello che apparirà nella colonna a sinistra)
 author:
@@ -23,7 +24,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com" # Inserisci il tuo vero username qui
+      url: "https://github.com"
 
 defaults:
   - scope:
