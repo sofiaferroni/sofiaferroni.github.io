@@ -1,11 +1,11 @@
-title: "Il Portfolio di Sofia Ferroni"
-description: "Sito ufficiale di Sofia Ferroni - CV, Poesie e Fotografia"
+title: "Sofia Ferroni"
+description: "Official Portfolio of Sofia Ferroni"
 
-# Tema e Skin (Colori)
+# Theme & Skin Configuration
 minimal_mistakes_skin: "default"
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Configurazione del sito
+# Site Settings
 markdown: kramdown
 include:
   - _pages
@@ -17,10 +17,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# IL TUO PROFILO (Quello che apparirà nella colonna a sinistra)
+# BIOGRAPHY (Left sidebar)
 author:
   name   : "Sofia Ferroni"
-  bio    : "Benvenuti nel mio spazio digitale. Qui raccolgo il mio CV, le mie poesie e i miei scatti fotografici."
+  bio    : "Second-year Master’s student in Linguistics at the University of Padua and Fellow of the Scuola Galileiana."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
