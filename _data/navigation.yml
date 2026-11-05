@@ -1,9 +1,8 @@
+# Main navigation links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "CV & Research"
+    url: /cv/
+  - title: "Writings"
+    url: /writings/
+  - title: "Gallery"
+    url: /gallery/
