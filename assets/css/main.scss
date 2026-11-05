@@ -1,0 +1,28 @@
+---
+# Questo blocco iniziale con i trattini è obbligatorio per Jekyll
+---
+
+@import "minimal-mistakes/skins/default"; // Carica la base del tema
+@import "minimal-mistakes"; // Carica gli stili generali
+
+// PERSONALIZZAZIONE COLORE BLU SCURO
+// Puoi cambiare questi codici esadecimali (#...) per sfumature diverse
+
+$primary-color: #0B2545; // Blu scuro profondo per i titoli principali
+
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color !important;
+}
+
+.site-title {
+  color: $primary-color !important;
+}
+
+a {
+  color: #134074 !important; // Un blu leggermente più luminoso per i link cliccabili
+  text-decoration: none;
+  
+  &:hover {
+    color: #8DA9C4 !important; // Colore quando passi il mouse sopra il link
+  }
+}
