@@ -1,4 +1,4 @@
-title: "Sofia Ferroni"
+title: "Home"
 description: "Official Portfolio of Sofia Ferroni"
 
 # Theme & Skin Configuration
@@ -17,14 +17,24 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# BIOGRAPHY (Left sidebar)
+# BIOGRAPHY & CONTACTS (Left sidebar)
+# Qui è dove gestisci tutti i tuoi profili social e contatti
 author:
   name   : "Sofia Ferroni"
   bio    : "Second-year Master’s student in Linguistics at the University of Padua and Fellow of the Scuola Galileiana."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:tuamail@studenti.unipd.it" # Inserisci la tua mail reale lasciando "mailto:" all'inizio
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ironssofi/" # Sostituisci con il tuo username Instagram
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/ferroni.sofia/" # Sostituisci con il tuo link Facebook
 
 defaults:
   - scope:
@@ -35,6 +45,10 @@ defaults:
       author_profile: true
   - scope:
       path: "_pages"
+    values:
+      layout: single
+      author_profile: true
+
       type: pages
     values:
       layout: single
