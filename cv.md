@@ -1,26 +1,25 @@
 ---
 layout: single
-title: "Percorso Accademico & CV"
+title: "Curriculum Vitae & Research"
 permalink: /cv/
 author_profile: true
 ---
 
-Benvenuti nella mia pagina professionale. Sono una studentessa di Laurea Magistrale in Linguistica e i miei interessi di ricerca si concentrano principalmente su [inserisci qui i tuoi ambiti, es. sociolinguistica, sintassi, ecc.].
+I am a second-year Master’s student in Linguistics at the University of Padua and a Fellow of the Scuola Galileiana di Studi Superiori (Honours College). I graduated with honours (110/110 summa cum laude) with a BA thesis on the syntax of adverbial subordination. My research focuses on theoretical syntax, specifically the structure of adverbial subordinate clauses and locality in A'-dependencies, analysed through the dual lenses of (micro-)typology and diachrony.
 
-## Istruzione e Formazione
+## Academic Foundations & Core Fields
 
-*   **Laurea Magistrale in Linguistica** (In corso)  
-    *Università degli Studi di...* | 2025 - Presente
-*   **Laurea Triennale in...**  
-    *Università degli Studi di...* | 2022 - 2025  
-    *Tesi:* "Titolo della tua tesi triennale"
+My academic foundation is built on a comprehensive range of linguistic fields, among which:
 
-##  Pubblicazioni e Articoli
-*Qui inserirai pian piano la lista dei tuoi paper o abstract:*
+*   **Formal Theory:** Advanced syntax, morphology, phonetics and phonology, logic, semantics, and pragmatics.
+*   **Language Variation (Diachrony & Synchrony):** Historical syntax, history of Latin, linguistic typology, Serbo-Croatian and Chinese linguistics, and advanced dialectology.
+*   **Methodology & Applied Linguistics:** Language acquisition, fieldwork, and corpus analysis.
 
-1.  **Titolo del primo articolo o ricerca di prova** (2026). *Nome dell'eventuale rivista o esame per cui è stato scritto*. [Link al PDF se presente]
-2.  *Prossimi articoli in arrivo...*
+## Education
 
-##  Competenze Linguistiche & Informatiche
-*   **Lingue:** Italiano (Madrelingua), Inglese (...), ...
-*   **Strumenti:** Praat, R (per la linguistica computazionale), LaTeX, Git.
+*   **MA in Linguistics**  
+    *University of Padua & Scuola Galileiana di Studi Superiori* | 2025 - Present
+*   **BA in Humanities / Linguistics**  
+    *University of Padua* | 2022 - 2025  
+    *Final Grade:* 110/110 summa cum laude  
+    *Thesis:* "The syntax of adverbial subordination"
