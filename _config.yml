@@ -25,16 +25,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tuamail@studenti.unipd.it" # Inserisci la tua mail reale lasciando "mailto:" all'inizio
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "mailto:sofia.ferroni@studenti.unipd.it"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/ironssofi/" # Sostituisci con il tuo username Instagram
+      url: "https://www.instagram.com/ironssofi/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/ferroni.sofia/" # Sostituisci con il tuo link Facebook
+      url: "https://www.facebook.com/ferroni.sofia/"
 
 defaults:
   - scope:
