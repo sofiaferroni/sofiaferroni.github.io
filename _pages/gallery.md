@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "Photography"
+title: "Gallery"
 permalink: /gallery/
 author_profile: true
 gallery:
-  - url: /assets/images/DSC_0644.jpg
-    image_path: /assets/images/DSC_0644.jpg
+  - url: /assets/images/DSC_0644.JPG
+    image_path: /assets/images/DSC_0644.JPG
     alt: "Marmot"
-    title: "marmot"
+    title: "Marmot"
 ---
 
-Welcome in my amateur gallery.
+Welcome to my amateur gallery.
 
 {% include gallery layout="half" %}
