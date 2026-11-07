@@ -10,37 +10,13 @@ My academic foundation is built on a comprehensive range of linguistic fields, a
 
 ## Education
 
-<table style="width: 100%; border: none !important; border-collapse: collapse; margin: 20px 0; font-size: 1em;">
-  <tr style="border: none !important;">
-    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
-      <strong>Oct 2024 — Present</strong>
-    </td>
-    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
-      <strong>Fellowship (Honours College)</strong><br>
-      Scuola Galileiana di Studi Superiori, University of Padua<br>
-      Website: <a href="https://unipd.it" target="_blank" style="text-decoration: underline;">scuolagalileiana.unipd.it</a>
-    </td>
-  </tr>
-  <tr style="border: none !important;">
-    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
-      <strong>Oct 2024 — Present</strong>
-    </td>
-    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
-      <strong>MA in Linguistics</strong><br>
-      University of Padua
-    </td>
-  </tr>
-  <tr style="border: none !important;">
-    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
-      <strong>Oct 2021 — Jun 2024</strong>
-    </td>
-    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
-      <strong>BA in Modern Literature (<em>Lettere Moderne</em>)</strong><br>
-      University of Padua (Graduation Date: June 21, 2024)<br>
-      Final Grade: 110/110 <em>summa cum laude</em><br>
-      Thesis: <em>Adverbial Clauses: Structure, Hierarchy and Syntactic Properties</em>
-    </td>
-  </tr>
-</table>
+<span style="color: #2f575d;">**Oct 2024 — Present**</span> &emsp; **Fellowship (Honours College)**  
+[Scuola Galileiana di Studi Superiori](https://unipd.it){:target="_blank"}, University of Padua
 
+<span style="color: #2f575d;">**Oct 2024 — Present**</span> &emsp; **MA in Linguistics**  
+University of Padua
 
+<span style="color: #2f575d;">**Oct 2021 — Jun 2024**</span> &emsp; **BA in Modern Literature (*Lettere Moderne*)**  
+University of Padua
+Final Grade: 110/110 *summa cum laude*  
+Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties*
