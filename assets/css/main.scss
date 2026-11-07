@@ -27,19 +27,26 @@ a {
   }
 }
 
-// INGRANDIMENTO E CENTRATURA FOTO PROFILO (AVATAR)
+// FORMATTAZIONE AVATAR GRANDE ALLINEATO A SINISTRA
 .author__avatar img {
-  min-width: 140px !important;
-  height: 140px !important;
+  min-width: 180px !important;
+  width: 180px !important;
+  height: 180px !important;
   object-fit: cover !important;
   border-radius: 50% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  padding: 0 !important;
+  margin: 0 !important; /* Rimuove la centratura e spinge la foto a sinistra */
   display: block !important;
 }
 
 .author__avatar {
-  text-align: center !important;
+  text-align: left !important;
   display: block !important;
-  margin-bottom: 15px !important;
+  margin-bottom: 20px !important;
+  padding: 0 !important;
+}
+
+/* Ripristina l'allineamento a sinistra per nome, bio e contatti */
+.author__content {
+  text-align: left !important;
 }
