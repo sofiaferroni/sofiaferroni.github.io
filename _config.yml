@@ -21,7 +21,7 @@ plugins:
 # Qui è dove gestisci tutti i tuoi profili social e contatti
 author:
   name   : "Sofia Ferroni"
-  avatar : "/assets/images/DSC_0467.JPG"
+  avatar : "/assets/images/avatar.JPG"
   bio    : "Second-year Master’s student in Linguistics at the University of Padua and Fellow of the Scuola Galileiana."
   links:
     - label: "Email"
