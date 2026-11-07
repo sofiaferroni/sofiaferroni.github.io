@@ -16,7 +16,6 @@ My academic foundation is built on a comprehensive range of linguistic fields, a
 <span style="color: #2f575d;">**Oct 2024 — Present**</span> &emsp; **MA in Linguistics**  
 University of Padua
 
-<span style="color: #2f575d;">**Oct 2021 — Jun 2024**</span> &emsp; **BA in Modern Literature (*Lettere Moderne*)**  
+<span style="color: #2f575d;">**Oct 2021 — Jun 2024**</span> &emsp; **BA in Modern Literature**  
 University of Padua
-Final Grade: 110/110 *summa cum laude*  
-Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties*
+Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties* (110/110 *summa cum laude*)
