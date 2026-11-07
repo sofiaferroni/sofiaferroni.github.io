@@ -21,22 +21,25 @@ Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties* (110/
 
 ## Languages
 
-<span style="color: #134074;">**Italian**</span> &emsp; <span style="color: #134074;">● ● ● ● ● ●</span> &nbsp; *(Native)*
+<span style="color: #134074;">**Italian**</span> &emsp; <span style="color: #000000;">● ● ● ● ● ●</span> &nbsp; *(Native)*
 
-<span style="color: #134074;">**English**</span> &emsp; <span style="color: #134074;">● ● ● ● ●</span><span style="color: #ccc;">○</span> &nbsp; *(C1)*
+<span style="color: #134074;">**English**</span> &emsp; <span style="color: #000000;">● ● ● ● ●</span><span style="color: #e0e0e0;">●</span> &nbsp; *(C1)*
 
-<span style="color: #134074;">**Serbo-Croatian**</span> &emsp; <span style="color: #134074;">● ● ●</span><span style="color: #ccc;">○ ○ ○</span> &nbsp; *(B1)*
+<span style="color: #134074;">**Serbo-Croatian**</span> &emsp; <span style="color: #000000;">● ● ●</span><span style="color: #e0e0e0;">● ● ●</span> &nbsp; *(B1)*
 
-<span style="color: #134074;">**Spanish**</span> &emsp; <span style="color: #134074;">● ●</span><span style="color: #ccc;">○ ○ ○ ○</span> &nbsp; *(A2)*
+<span style="color: #134074;">**Spanish**</span> &emsp; <span style="color: #000000;">● ●</span><span style="color: #e0e0e0;">● ● ● ●</span> &nbsp; *(A2)*
 
-<span style="color: #134074;">**Indonesian / Malay**</span> &emsp; <span style="color: #134074;">● ●</span><span style="color: #ccc;">○ ○ ○ ○</span> &nbsp; *(A2)*
+<span style="color: #134074;">**Indonesian / Malay**</span> &emsp; <span style="color: #000000;">● ●</span><span style="color: #e0e0e0;">● ● ● ●</span> &nbsp; *(A2)*
 
-<span style="color: #134074;">**German**</span> &emsp; <span style="color: #134074;">●</span><span style="color: #ccc;">○ ○ ○ ○ ○</span> &nbsp; *(A1)*
+<span style="color: #134074;">**German**</span> &emsp; <span style="color: #000000;">●</span><span style="color: #e0e0e0;">● ● ● ● ●</span> &nbsp; *(A1)*
+
 
 ## Publications
 
 <span style="color: #134074;">**2025**</span> &emsp; **Journal Article**  
-Ferroni, S., & Sanfelici, E. (2025). Refining the Italian clausal spine in light of Central Adverbial Clauses. *Isogloss. Open Journal of Romance Linguistics*, 11(7), 1–38.
+Ferroni, S., & Sanfelici, E. (2025). Refining the Italian clausal spine in light of Central Adverbial Clauses. *Isogloss. Open Journal of Romance Linguistics*, 11(7), 1–38.  
+DOI: [10.5565/rev/isogloss.574](https://doi.org/10.5565/rev/isogloss.574)
+
 
 ## Conferences and Seminars
 
