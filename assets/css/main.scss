@@ -6,8 +6,6 @@
 @import "minimal-mistakes"; // Carica gli stili generali
 
 // PERSONALIZZAZIONE COLORE BLU SCURO
-// Puoi cambiare questi codici esadecimali (#...) per sfumature diverse
-
 $primary-color: #0B2545; // Blu scuro profondo per i titoli principali
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,26 +25,35 @@ a {
   }
 }
 
-// FORMATTAZIONE AVATAR GRANDE ALLINEATO A SINISTRA
+// STRUTTURA BARRA LATERALE FORZATA IN VERTICALE (FOTO SEMPRE IN ALTO)
+.sidebar .author__profile {
+  display: flex !important;
+  flex-direction: column !important; /* Forza la foto sopra e il testo sotto su ogni schermo */
+  align-items: flex-start !important; /* Allinea tutto a sinistra */
+  text-align: left !important;
+}
+
+// FORMATTAZIONE DELL'AVATAR (Valida sia per PC che per Telefono)
 .author__avatar img {
-  min-width: 180px !important;
-  width: 180px !important;
-  height: 180px !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
+  width: 150px !important; /* Dimensione bilanciata perfetta per non rompere il layout del telefono */
+  max-width: 150px !important;
+  height: 150px !important;
+  object-fit: cover !important; /* Corregge l'effetto ovale orizzontale */
+  border-radius: 50% !important; /* Cerchio perfetto */
   padding: 0 !important;
-  margin: 0 !important; /* Rimuove la centratura e spinge la foto a sinistra */
+  margin: 0 0 15px 0 !important; /* Spazio sotto la foto prima del nome */
   display: block !important;
 }
 
 .author__avatar {
-  text-align: left !important;
   display: block !important;
-  margin-bottom: 20px !important;
+  text-align: left !important;
   padding: 0 !important;
+  margin: 0 !important;
 }
 
-/* Ripristina l'allineamento a sinistra per nome, bio e contatti */
 .author__content {
   text-align: left !important;
+  padding-left: 0 !important;
+  margin-top: 0 !important;
 }
