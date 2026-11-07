@@ -10,33 +10,37 @@ My academic foundation is built on a comprehensive range of linguistic fields, a
 
 ## Education
 
-<table style="width: 100%; border: none !important; border-collapse: collapse; margin: 0; font-size: 1em;">
+<table style="width: 100%; border: none !important; border-collapse: collapse; margin: 20px 0; font-size: 1em;">
   <tr style="border: none !important;">
-    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
       <strong>Oct 2024 — Present</strong>
     </td>
-    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
-      <strong>Fellowship (Honours College)</strong> — Scuola Galileiana di Studi Superiori, University of Padua<br>
+    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
+      <strong>Fellowship (Honours College)</strong><br>
+      Scuola Galileiana di Studi Superiori, University of Padua<br>
       Website: <a href="https://unipd.it" target="_blank" style="text-decoration: underline;">scuolagalileiana.unipd.it</a>
     </td>
   </tr>
   <tr style="border: none !important;">
-    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
       <strong>Oct 2024 — Present</strong>
     </td>
-    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
-      <strong>MA in Linguistics</strong> — University of Padua
+    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
+      <strong>MA in Linguistics</strong><br>
+      University of Padua
     </td>
   </tr>
   <tr style="border: none !important;">
-    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+    <td style="width: 28%; vertical-align: top; border: none !important; padding: 12px 10px 12px 0; white-space: nowrap;">
       <strong>Oct 2021 — Jun 2024</strong>
     </td>
-    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
-      <strong>BA in Modern Literature (<em>Lettere Moderne</em>)</strong> — University of Padua (Graduation Date: June 21, 2024)<br>
+    <td style="vertical-align: top; border: none !important; padding: 12px 0; line-height: 1.5;">
+      <strong>BA in Modern Literature (<em>Lettere Moderne</em>)</strong><br>
+      University of Padua (Graduation Date: June 21, 2024)<br>
       Final Grade: 110/110 <em>summa cum laude</em><br>
       Thesis: <em>Adverbial Clauses: Structure, Hierarchy and Syntactic Properties</em>
     </td>
   </tr>
 </table>
+
 
