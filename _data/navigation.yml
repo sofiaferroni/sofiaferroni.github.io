@@ -2,7 +2,7 @@
 main:
   - title: "CV & Research"
     url: /cv/
-   - title: "Gallery"
+  - title: "Gallery"
     url: /gallery/
   - title: "Writings"
     url: /writings/
