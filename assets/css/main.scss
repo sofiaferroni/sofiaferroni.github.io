@@ -26,3 +26,20 @@ a {
     color: #8DA9C4 !important; // Colore quando passi il mouse sopra il link
   }
 }
+
+// INGRANDIMENTO E CENTRATURA FOTO PROFILO (AVATAR)
+.author__avatar img {
+  min-width: 140px !important;
+  height: 140px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: block !important;
+}
+
+.author__avatar {
+  text-align: center !important;
+  display: block !important;
+  margin-bottom: 15px !important;
+}
