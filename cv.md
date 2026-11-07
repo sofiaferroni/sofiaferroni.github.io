@@ -10,37 +10,33 @@ My academic foundation is built on a comprehensive range of linguistic fields, a
 
 ## Education
 
-<table style="width: 100%; border: none; border-collapse: collapse; margin-top: 0;">
-  <tr style="border: none;">
-    <td style="width: 25%; vertical-align: top; border: none; padding: 10px 0;">
-      **Oct 2024 — Present**
+<table style="width: 100%; border: none !important; border-collapse: collapse; margin: 0; font-size: 1em;">
+  <tr style="border: none !important;">
+    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+      <strong>Oct 2024 — Present</strong>
     </td>
-    <td style="vertical-align: top; border: none; padding: 10px 0;">
-      **Fellowship (Honours College)**<br>
-      Scuola Galileiana di Studi Superiori, University of Padua<br>
-      Website: <a href="https://unipd.it" target="_blank">scuolagalileiana.unipd.it</a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width: 25%; vertical-align: top; border: none; padding: 10px 0;">
-      **Oct 2024 — Present**
-    </td>
-    <td style="vertical-align: top; border: none; padding: 10px 0;">
-      **MA in Linguistics**<br>
-      University of Padua
+    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
+      <strong>Fellowship (Honours College)</strong> — Scuola Galileiana di Studi Superiori, University of Padua<br>
+      Website: <a href="https://unipd.it" target="_blank" style="text-decoration: underline;">scuolagalileiana.unipd.it</a>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td style="width: 25%; vertical-align: top; border: none; padding: 10px 0;">
-      **Oct 2021 — Jun 2024**
+  <tr style="border: none !important;">
+    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+      <strong>Oct 2024 — Present</strong>
     </td>
-    <td style="vertical-align: top; border: none; padding: 10px 0;">
-      **BA in Modern Literature (*Lettere Moderne*)**<br>
-      University of Padua (Graduation Date: June 21, 2024)<br>
-      Final Grade: 110/110 *summa cum laude*<br>
-      Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties*
+    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
+      <strong>MA in Linguistics</strong> — University of Padua
+    </td>
+  </tr>
+  <tr style="border: none !important;">
+    <td style="width: 25%; vertical-align: top; border: none !important; padding: 4px 10px 4px 0; white-space: nowrap;">
+      <strong>Oct 2021 — Jun 2024</strong>
+    </td>
+    <td style="vertical-align: top; border: none !important; padding: 4px 0; line-height: 1.3;">
+      <strong>BA in Modern Literature (<em>Lettere Moderne</em>)</strong> — University of Padua (Graduation Date: June 21, 2024)<br>
+      Final Grade: 110/110 <em>summa cum laude</em><br>
+      Thesis: <em>Adverbial Clauses: Structure, Hierarchy and Syntactic Properties</em>
     </td>
   </tr>
 </table>
-
 
