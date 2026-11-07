@@ -2,7 +2,7 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
-author_profile: true
+author_profile: false
 ---
 
 Welcome to my amateur gallery. Here you can find a selection of my photographs, organized by theme.
