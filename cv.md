@@ -2,7 +2,7 @@
 layout: single
 title: "Curriculum Vitae & Research"
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 I am a second-year Master's student in Linguistics at the University of Padua and a Fellow of the Scuola Galileiana di Studi Superiori (Honours College). I graduated with honours (110/110 summa cum laude) with a BA thesis on the syntax of adverbial subordination. My research focuses on theoretical syntax, specifically the structure of adverbial subordinate clauses and locality in A'-dependencies, analysed through the dual lenses of (micro-)typology and diachrony.
