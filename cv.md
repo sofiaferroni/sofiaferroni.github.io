@@ -11,12 +11,13 @@ My academic foundation is built on a comprehensive range of linguistic fields, a
 ## Education
 
 <span style="color: #134074;">**Oct 2024 — Present**</span> &emsp; **Fellowship (Honours College)**  
-[Scuola Galileiana di Studi Superiori](https://unipd.it){:target="_blank"}, University of Padua
+[Scuola Galileiana di Studi Superiori](https://scuolagalileiana.unipd.it/en/){:target="_blank"}, University of Padua
 
 <span style="color: #134074;">**Oct 2024 — Present**</span> &emsp; **MA in Linguistics**  
 University of Padua
 
 <span style="color: #134074;">**Oct 2021 — Jun 2024**</span> &emsp; **BA in Modern Literature**  
-University of Padua
+University of Padua  
 Thesis: *Adverbial Clauses: Structure, Hierarchy and Syntactic Properties* (110/110 *summa cum laude*)
+
 
