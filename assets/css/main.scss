@@ -25,23 +25,26 @@ a {
   }
 }
 
-// STRUTTURA BARRA LATERALE FORZATA IN VERTICALE (FOTO SEMPRE IN ALTO)
+// ==========================================
+// FIX RESPONSIVO PER LA BARRA LATERALE (AVATAR + BIO)
+// ==========================================
+
+// 🖥️ COMPORTAMENTO SU PC E SCHERMI GRANDI
 .sidebar .author__profile {
   display: flex !important;
-  flex-direction: column !important; /* Forza la foto sopra e il testo sotto su ogni schermo */
-  align-items: flex-start !important; /* Allinea tutto a sinistra */
+  flex-direction: column !important;
+  align-items: flex-start !important;
   text-align: left !important;
 }
 
-// FORMATTAZIONE DELL'AVATAR (Valida sia per PC che per Telefono)
 .author__avatar img {
-  width: 150px !important; /* Dimensione bilanciata perfetta per non rompere il layout del telefono */
+  width: 150px !important;
   max-width: 150px !important;
   height: 150px !important;
-  object-fit: cover !important; /* Corregge l'effetto ovale orizzontale */
-  border-radius: 50% !important; /* Cerchio perfetto */
+  object-fit: cover !important;
+  border-radius: 50% !important;
   padding: 0 !important;
-  margin: 0 0 15px 0 !important; /* Spazio sotto la foto prima del nome */
+  margin: 0 0 15px 0 !important;
   display: block !important;
 }
 
@@ -56,4 +59,46 @@ a {
   text-align: left !important;
   padding-left: 0 !important;
   margin-top: 0 !important;
+}
+
+// 📱 COMPORTAMENTO SU CELLULARE (Resetta le regole "orizzontali" native di Minimal Mistakes)
+@media (max-width: 64em) { // 64em è la dimensione esatta del breakpoint mobile di Minimal Mistakes
+  
+  .sidebar .author__profile {
+    display: flex !important;
+    flex-direction: column !important; /* Forza l'incolonnamento verticale sul telefono */
+    align-items: center !important;    /* Centra la foto e il testo per una resa grafica migliore su mobile */
+    text-align: center !important;
+    padding: 20px 0 !important;
+  }
+
+  .author__avatar {
+    display: block !important;
+    text-align: center !important;
+    float: none !important;            /* Rimuove eventuali allineamenti laterali nativi del tema */
+    width: 100% !important;
+  }
+
+  .author__avatar img {
+    margin: 0 auto 15px auto !important; /* Centra perfettamente il cerchio della foto */
+    width: 120px !important;            /* Leggermente più piccola sul telefono per dare respiro al testo */
+    max-width: 120px !important;
+    height: 120px !important;
+  }
+
+  .author__content {
+    display: block !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    margin-top: 10px !important;
+    text-align: center !important;     /* Centra nome e bio sotto la foto */
+  }
+  
+  // Evita che i link social si dispongano male o si sovrappongano
+  .author__urls-wrapper {
+    position: relative !important;
+    display: block !important;
+    margin-top: 15px !important;
+    text-align: left !important;       /* Mantiene la lista dei social ben allineata a sinistra */
+  }
 }
