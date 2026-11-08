@@ -26,7 +26,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/DSC_0029.JPG" alt="Col di Lana" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Monte Col di Lana</strong>
-      <span style="color: #666; font-size: 0.9em;">A breathtaking view captured during sunrise.</span>
+      <span style="color: #666; font-size: 0.9em;">The mount during sunrise.</span>
     </td>
   </tr>
   
@@ -65,7 +65,7 @@ Welcome to my amateur gallery!
       <a href="/assets/images/DSC_0167.JPG" target="_blank">
         <img src="/assets/images/DSC_0167.JPG" alt="Marmot in the wild" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Marmot in the Sun</strong>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Marmot on lookout</strong>
       <span style="color: #666; font-size: 0.9em;">Another marmotta encounter high up in the valleys.</span>
     </td>
   </tr>
@@ -78,7 +78,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/DSC_0079.JPG" alt="Amanita Muscaria mushroom" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Amanita Muscaria</strong>
-      <span style="color: #666; font-size: 0.9em;">The iconic red and white fairytale mushroom found nestled in the alpine moss.</span>
+      <span style="color: #666; font-size: 0.9em;">The iconic mushroom found nestled in the alpine moss.</span>
     </td>
     <!-- SPAZIO VUOTO NELLA GRIGLIA NATURA PER AGGIORNAMENTI FUTURI -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
@@ -96,7 +96,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/DSC_0001.JPG" alt="Padova Sunrise" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Padova at Dawn</strong>
-      <span style="color: #666; font-size: 0.9em;">The golden hour painting the sky over Padova early in the morning.</span>
+      <span style="color: #666; font-size: 0.9em;">The sky over Padova early in the morning.</span>
     </td>
     <!-- FOTO: ALBERO AUTUNNALE (LIQUIDAMBAR) -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
@@ -104,7 +104,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/DSC_0052.JPG" alt="Liquidambar tree in autumn" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Liquidambar in Autumn</strong>
-      <span style="color: #666; font-size: 0.9em;">The silhouette of a Liquidambar tree, showcasing its unique spiky seed balls and warm November hues.</span>
+      <span style="color: #666; font-size: 0.9em;">The silhouette of a Liquidambar tree, in Lendinara.</span>
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/SCOIATTOLO.jpeg" alt="Squirrel in London" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Squirrel in London</strong>
-      <span style="color: #666; font-size: 0.9em;">A friendly little squirrel encountered in Hyde Park, London.</span>
+      <span style="color: #666; font-size: 0.9em;">A friendly squirrel encountered in Hyde Park, London.</span>
     </td>
   </tr>
 </table>
