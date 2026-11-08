@@ -5,7 +5,7 @@ permalink: /writings/
 author_profile: false
 ---
 
-Welcome to my collection of essays, stories, and narrative thoughts!
+Welcome to my collection of writings!
 
 ## Fiction & Creative Writing
 
