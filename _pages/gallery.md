@@ -24,8 +24,8 @@ Welcome to my amateur gallery!
     
     <!-- FOTO 2: MARMOLADA -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
-      <a href="/assets/images/marmolada.JPG" target="_blank">
-        <img src="/assets/images/marmolada.JPG" alt="Marmolada" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      <a href="/assets/images/DSC_0050.JPG" target="_blank">
+        <img src="/assets/images/DSC_0050.JPG" alt="Marmolada" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Marmolada</strong>
       <span style="color: #666; font-size: 0.9em;">The majestic peak covered with the very first autumn snow.</span>
@@ -36,8 +36,8 @@ Welcome to my amateur gallery!
   <tr style="border: none !important;">
     <!-- FOTO 3: COL DI LANA -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
-      <a href="/assets/images/coldilana.JPG" target="_blank">
-        <img src="/assets/images/coldilana.JPG" alt="Col di Lana" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      <a href="/assets/images/DSC_0029.JPG" target="_blank">
+        <img src="/assets/images/DSC_0029.JPG" alt="Col di Lana" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Monte Col di Lana</strong>
       <span style="color: #666; font-size: 0.9em;">A breathtaking view captured during sunrise.</span>
