@@ -61,44 +61,41 @@ a {
   margin-top: 0 !important;
 }
 
-// 📱 COMPORTAMENTO SU CELLULARE (Resetta le regole "orizzontali" native di Minimal Mistakes)
-@media (max-width: 64em) { // 64em è la dimensione esatta del breakpoint mobile di Minimal Mistakes
+// 📱 COMPORTAMENTO SU CELLULARE (Soluzione radicale antirovina)
+@media (max-width: 64em) {
   
   .sidebar .author__profile {
     display: flex !important;
-    flex-direction: column !important; /* Forza l'incolonnamento verticale sul telefono */
-    align-items: center !important;    /* Centra la foto e il testo per una resa grafica migliore su mobile */
+    flex-direction: column !important; 
+    align-items: center !important;   
     text-align: center !important;
-    padding: 20px 0 !important;
+    padding: 15px 0 !important;
+  }
+
+  // NASCONDE IL NOME E LA BIOGRAFIA SUL TELEFONO
+  .author__content {
+    display: none !important; 
   }
 
   .author__avatar {
     display: block !important;
     text-align: center !important;
-    float: none !important;            /* Rimuove eventuali allineamenti laterali nativi del tema */
+    float: none !important;           
     width: 100% !important;
   }
 
   .author__avatar img {
-    margin: 0 auto 15px auto !important; /* Centra perfettamente il cerchio della foto */
-    width: 120px !important;            /* Leggermente più piccola sul telefono per dare respiro al testo */
-    max-width: 120px !important;
-    height: 120px !important;
-  }
-
-  .author__content {
-    display: block !important;
-    width: 100% !important;
-    padding-left: 0 !important;
-    margin-top: 10px !important;
-    text-align: center !important;     /* Centra nome e bio sotto la foto */
+    margin: 0 auto 10px auto !important; 
+    width: 110px !important;            
+    max-width: 110px !important;
+    height: 110px !important;
   }
   
-  // Evita che i link social si dispongano male o si sovrappongano
+  // Mantiene solo i link social sotto la foto, puliti e distanziati
   .author__urls-wrapper {
     position: relative !important;
     display: block !important;
-    margin-top: 15px !important;
-    text-align: left !important;       /* Mantiene la lista dei social ben allineata a sinistra */
+    margin-top: 10px !important;
+    width: 100% !important;
   }
 }
