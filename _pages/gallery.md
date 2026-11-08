@@ -63,8 +63,14 @@ Welcome to my amateur gallery!
       <strong style="color: #134074; display: block; font-size: 1.1em;">Balkan Mountains</strong>
       <span style="color: #666; font-size: 0.9em;">The snowy peaks of Stara Planina, captured from Plovdiv, Bulgaria.</span>
     </td>
-    <!-- SPAZIO VUOTO PER LA PROSSIMA FOTO DI VIAGGI -->
+    
+    <!-- FOTO 2: SCOIATTOLO A LONDRA -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
+      <a href="/assets/images/SCOIATTOLO.JPG" target="_blank">
+        <img src="/assets/images/SCOIATTOLO.JPG" alt="Squirrel in London" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Squirrel in London</strong>
+      <span style="color: #666; font-size: 0.9em;">A little squirrel encountered in Hyde Park, London.</span>
     </td>
   </tr>
 </table>
