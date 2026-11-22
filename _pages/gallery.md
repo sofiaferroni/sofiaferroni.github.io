@@ -137,8 +137,8 @@ Welcome to my amateur gallery!
   <tr style="border: none !important;">
     <!-- FOTO: ARCOBALENO -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
-      <a href="/assets/images/DSC_0102.JPG" target="_blank">
-        <img src="/assets/images/DSC_0102.JPG" alt="Rainbow" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      <a href="/assets/images/DSC_0054.JPG" target="_blank">
+        <img src="/assets/images/DSC_0054.JPG" alt="Rainbow" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Rainbow</strong>
       <span style="color: #666; font-size: 0.9em;">Captured after a storm in Padova.</span>
