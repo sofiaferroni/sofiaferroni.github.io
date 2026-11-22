@@ -70,7 +70,7 @@ Welcome to my amateur gallery!
     </td>
   </tr>
 
-  <!-- RIGA 4: FUNGO ED EVENTUALI SCATTI FUTURI -->
+  <!-- RIGA 4: FUNGO -->
   <tr style="border: none !important;">
     <!-- FOTO: FUNGO (AMANITA MUSCARIA) -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -79,6 +79,18 @@ Welcome to my amateur gallery!
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Amanita Muscaria</strong>
       <span style="color: #666; font-size: 0.9em;">The iconic mushroom found nestled in the alpine moss.</span>
+    </td>
+  </tr>
+
+  <!-- RIGA 6: PELMO -->
+  <tr style="border: none !important;">
+    <!-- FOTO: FUNGO (AMANITA MUSCARIA) -->
+    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
+      <a href="/assets/images/DSC_0102.JPG" target="_blank">
+        <img src="/assets/images/DSC_0102.JPG" alt="Mount Pelmo" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Mount Pelmo</strong>
+      <span style="color: #666; font-size: 0.9em;">Mount Pelmo captured on the way to Bramezza.</span>
     </td>
     <!-- SPAZIO VUOTO NELLA GRIGLIA NATURA PER AGGIORNAMENTI FUTURI -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
