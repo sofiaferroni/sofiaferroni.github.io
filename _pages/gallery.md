@@ -109,6 +109,7 @@ Welcome to my amateur gallery!
       <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking..</span>
     </td>
   </tr>
+</table>
 
 ## Everyday Beauty
 
