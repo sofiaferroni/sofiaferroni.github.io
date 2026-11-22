@@ -37,7 +37,7 @@ Welcome to my amateur gallery!
       <a href="/assets/images/DSC_0107.JPG" target="_blank">
         <img src="/assets/images/DSC_0107.JPG" alt="View from Forcella Pianezze" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Forcella Pianezza</strong>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Forcella Pianezze</strong>
       <span style="color: #666; font-size: 0.9em;">The peaks visible from Forcella Pianezze.</span>
     </td>
     <!-- FOTO: STELLA ALPINA (Spostata qui per bilanciare la griglia della natura montana) -->
@@ -70,7 +70,7 @@ Welcome to my amateur gallery!
     </td>
   </tr>
 
-  <!-- RIGA 4: FUNGO -->
+  <!-- RIGA 4: FUNGO E PELMO -->
   <tr style="border: none !important;">
     <!-- FOTO: FUNGO (AMANITA MUSCARIA) -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -80,11 +80,7 @@ Welcome to my amateur gallery!
       <strong style="color: #134074; display: block; font-size: 1.1em;">Amanita Muscaria</strong>
       <span style="color: #666; font-size: 0.9em;">The iconic mushroom found nestled in the alpine moss.</span>
     </td>
-  </tr>
-
-  <!-- RIGA 6: PELMO -->
-  <tr style="border: none !important;">
-    <!-- FOTO: FUNGO (AMANITA MUSCARIA) -->
+    <!-- FOTO: PELMO (PELMO) -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
       <a href="/assets/images/DSC_0102.JPG" target="_blank">
         <img src="/assets/images/DSC_0102.JPG" alt="Mount Pelmo" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
@@ -92,11 +88,27 @@ Welcome to my amateur gallery!
       <strong style="color: #134074; display: block; font-size: 1.1em;">Mount Pelmo</strong>
       <span style="color: #666; font-size: 0.9em;">Mount Pelmo captured on the way to Bramezza.</span>
     </td>
-    <!-- SPAZIO VUOTO NELLA GRIGLIA NATURA PER AGGIORNAMENTI FUTURI -->
+  </tr>
+
+  <!-- RIGA 5: PAESAGGI AUTUNNALI -->
+  <tr style="border: none !important;">
+    <!-- FOTO: PANCHINA -->
+    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
+      <a href="/assets/images/DSC_0084.JPG" target="_blank">
+        <img src="/assets/images/DSC_0084.JPG" alt="Viewpoint bench" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Viewpoint bench</strong>
+      <span style="color: #666; font-size: 0.9em;">Bench overlooking the Dolomites.</span>
+    </td>
+    <!-- FOTO: PAESAGGIO -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
+      <a href="/assets/images/DSC_0074.JPG" target="_blank">
+        <img src="/assets/images/DSC_0074.JPG" alt="Mountain landscape in mid-November" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Mountain landscape in mid-November</strong>
+      <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking..</span>
     </td>
   </tr>
-</table>
 
 ## Everyday Beauty
 
