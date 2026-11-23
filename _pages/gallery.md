@@ -26,7 +26,7 @@ Welcome to my amateur gallery!
         <img src="/assets/images/DSC_0074.JPG" alt="Mountain landscape in mid-November" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
       <strong style="color: #134074; display: block; font-size: 1.1em;">Mountain landscape in mid-November</strong>
-      <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking..</span>
+      <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking.</span>
     </td>
   </tr>
 
