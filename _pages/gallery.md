@@ -10,7 +10,27 @@ Welcome to my amateur gallery!
 ## Mountain & Wild Nature
 
 <table style="width: 100%; border: none !important; border-collapse: collapse; margin-top: 10px;">
-  <!-- RIGA 1: PAESAGGI CLASSICI -->
+  <!-- RIGA 1: PAESAGGI AUTUNNALI -->
+  <tr style="border: none !important;">
+    <!-- FOTO: PANCHINA -->
+    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
+      <a href="/assets/images/DSC_0084.JPG" target="_blank">
+        <img src="/assets/images/DSC_0084.JPG" alt="Viewpoint bench" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Viewpoint bench</strong>
+      <span style="color: #666; font-size: 0.9em;">Bench overlooking the Dolomites.</span>
+    </td>
+    <!-- FOTO: PAESAGGIO -->
+    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
+      <a href="/assets/images/DSC_0074.JPG" target="_blank">
+        <img src="/assets/images/DSC_0074.JPG" alt="Mountain landscape in mid-November" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      </a>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Mountain landscape in mid-November</strong>
+      <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking..</span>
+    </td>
+  </tr>
+
+  <!-- RIGA 2: PAESAGGI CLASSICI -->
   <tr style="border: none !important;">
     <!-- FOTO: MARMOLADA -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -20,17 +40,17 @@ Welcome to my amateur gallery!
       <strong style="color: #134074; display: block; font-size: 1.1em;">Marmolada</strong>
       <span style="color: #666; font-size: 0.9em;">The majestic peak covered with the very first autumn snow.</span>
     </td>
-    <!-- FOTO: COL DI LANA -->
-    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
-      <a href="/assets/images/DSC_0029.JPG" target="_blank">
-        <img src="/assets/images/DSC_0029.JPG" alt="Col di Lana" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+    <!-- FOTO: PELMO (PELMO) -->
+    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
+      <a href="/assets/images/DSC_0102.JPG" target="_blank">
+        <img src="/assets/images/DSC_0102.JPG" alt="Mount Pelmo" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Monte Col di Lana</strong>
-      <span style="color: #666; font-size: 0.9em;">The mount during sunrise.</span>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Mount Pelmo</strong>
+      <span style="color: #666; font-size: 0.9em;">Mount Pelmo captured on the way to Bramezza.</span>
     </td>
   </tr>
   
-  <!-- RIGA 2: FORCELLA PIANEZZE & SECONDO SCATTO -->
+  <!-- RIGA 3: FORCELLA PIANEZZE & SECONDO SCATTO -->
   <tr style="border: none !important;">
     <!-- FOTO: FORCELLA PIANEZZE -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -50,7 +70,7 @@ Welcome to my amateur gallery!
     </td>
   </tr>
 
-  <!-- RIGA 3: LE DUE MARMOTTE -->
+  <!-- RIGA 4: LE DUE MARMOTTE -->
   <tr style="border: none !important;">
     <!-- FOTO: MARMOTTA 1 -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -70,7 +90,7 @@ Welcome to my amateur gallery!
     </td>
   </tr>
 
-  <!-- RIGA 4: FUNGO E PELMO -->
+  <!-- RIGA 5: FUNGO E PELMO -->
   <tr style="border: none !important;">
     <!-- FOTO: FUNGO (AMANITA MUSCARIA) -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
@@ -80,33 +100,12 @@ Welcome to my amateur gallery!
       <strong style="color: #134074; display: block; font-size: 1.1em;">Amanita Muscaria</strong>
       <span style="color: #666; font-size: 0.9em;">The iconic mushroom found nestled in the alpine moss.</span>
     </td>
-    <!-- FOTO: PELMO (PELMO) -->
-    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
-      <a href="/assets/images/DSC_0102.JPG" target="_blank">
-        <img src="/assets/images/DSC_0102.JPG" alt="Mount Pelmo" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
-      </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Mount Pelmo</strong>
-      <span style="color: #666; font-size: 0.9em;">Mount Pelmo captured on the way to Bramezza.</span>
-    </td>
-  </tr>
-
-  <!-- RIGA 5: PAESAGGI AUTUNNALI -->
-  <tr style="border: none !important;">
-    <!-- FOTO: PANCHINA -->
-    <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 10px 20px 0;">
-      <a href="/assets/images/DSC_0084.JPG" target="_blank">
-        <img src="/assets/images/DSC_0084.JPG" alt="Viewpoint bench" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
-      </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Viewpoint bench</strong>
-      <span style="color: #666; font-size: 0.9em;">Bench overlooking the Dolomites.</span>
-    </td>
-    <!-- FOTO: PAESAGGIO -->
     <td style="width: 50%; vertical-align: top; border: none !important; padding: 0 0 20px 10px;">
-      <a href="/assets/images/DSC_0074.JPG" target="_blank">
-        <img src="/assets/images/DSC_0074.JPG" alt="Mountain landscape in mid-November" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
+      <a href="/assets/images/DSC_0029.JPG" target="_blank">
+        <img src="/assets/images/DSC_0029.JPG" alt="Col di Lana" style="width: 100%; border-radius: 4px; display: block; margin-bottom: 8px;">
       </a>
-      <strong style="color: #134074; display: block; font-size: 1.1em;">Mountain landscape in mid-November</strong>
-      <span style="color: #666; font-size: 0.9em;">Mountain landscape captured while hiking..</span>
+      <strong style="color: #134074; display: block; font-size: 1.1em;">Monte Col di Lana</strong>
+      <span style="color: #666; font-size: 0.9em;">The mount during sunrise.</span>
     </td>
   </tr>
 </table>
